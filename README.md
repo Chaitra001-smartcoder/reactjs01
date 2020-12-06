@@ -1,3 +1,22 @@
+😀my practice towards reactjs😀
+
+🌟This " fashionist " website has been developed has a custome designer store , where they can check out my dress designs and if they really feel its there dream dress😎 then they can place the order.  
+
+🌜pages of the fashionist🌛 Home,services,About,contactus.
+
+🌜technologies used🌛 Bootstrap 5️⃣, html5,css3, javascript, 🧡reactjs🧡
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
